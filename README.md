@@ -37,7 +37,7 @@ Order Items: Contains details about individual items within each sales order, in
 Inventories: Tracks inventory levels for products in different warehouses.
 
 Acknowledgments
-This project was created in collaboration with a senior Database Administrator (DBA) and another senior SQL developer. Their guidance and expertise were instrumental in designing and implementing the database schema.
+This project was created in collaboration with a senior Database Administrator (DBA) and another senior SQL developer. Their guidance and expertise were instrumental in designing and implementing the database schema. This project also contains code that was modified from reliable demo sources of large database corporations for dry run implementation process.
 
 Usage
 To use this database schema:
