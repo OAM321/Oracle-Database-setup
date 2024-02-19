@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------
--- Name	       : OT (Oracle) Sample Database
+-- Name: OT (Oracle) Sample Database
 --------------------------------------------------------------------------------------
 DROP TABLE ot.order_items;  
 DROP TABLE ot.orders;
