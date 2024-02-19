@@ -1,4 +1,5 @@
 SQL Database Schema Project
+
 Overview
 This project showcases my expertise in SQL database design and management. It consists of a set of SQL scripts that define tables, relationships, and constraints for a database schema. The schema is designed to represent a fictional company's data management system, including information about regions, countries, warehouses, employees, products, customers, orders, and inventories.
 
@@ -10,6 +11,7 @@ Table Relationships: The schema includes relationships between different tables,
 Data Management: The scripts provide a foundation for managing various types of data, including customer information, product details, sales orders, and inventory levels.
 
 Table Definitions
+
 Regions: Contains information about different geographic regions.
 
 Countries: Stores data about countries, including their names and associated regions.
