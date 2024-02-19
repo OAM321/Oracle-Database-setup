@@ -1,7 +1,7 @@
 SQL Database Schema Project
 
 Overview
-This project showcases my expertise in SQL database design and management. It consists of a set of SQL scripts that define tables, relationships, and constraints for a database schema. The schema is designed to represent a fictional company's data management system, including information about regions, countries, warehouses, employees, products, customers, orders, and inventories.
+This project showcases my expertise in SQL database design and management. It consists of a set of SQL scripts that define tables, relationships, and constraints for a database schema. It consists of drop table statements as well. The schema is designed to represent a fictional company's data management system, including information about regions, countries, warehouses, employees, products, customers, orders, and inventories.
 
 Features
 Database Design: The SQL scripts define a comprehensive database schema with normalized tables, ensuring efficient data storage and retrieval.
